@@ -396,7 +396,7 @@
 
 <script>
     // 每天切换 banner 图.  Switch banner image every day.
-    var bannerUrl = "/medias/banner/" + new Date().getDay() + '.jpg';
+    var bannerUrl = "/medias/banner/" + Math.round(Math.random()*9) + '.jpg';
     $('.bg-cover').css('background-image', 'url(' + bannerUrl + ')');
 </script>
 
@@ -635,7 +635,7 @@
                     <div class="card-content article-content">
                         <div class="summary block-with-text">
                             
-                                mysql书籍库的优化
+                                mysql数据库的优化
                             
                         </div>
                         <div class="publish-info">
@@ -773,43 +773,6 @@
             </div>
               <!-- 隐藏某个文章 -->
             
-             <!-- 隐藏某个文章 -->
-            <div class="article col s12 m6 l4" data-aos="zoom-in">
-                <div class="card">
-                    <a href="/2021/111116107.html">
-                        <div class="card-image">
-                            
-                            
-                            <img src="/medias/featureimages/12.jpg" class="responsive-img" alt="Hello World">
-                            
-                            <span class="card-title">Hello World</span>
-                        </div>
-                    </a>
-
-                    <div class="card-content article-content">
-                        <div class="summary block-with-text">
-                            
-                                Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hex
-                            
-                        </div>
-                        <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2021-11-11
-                            </span>
-                            <span class="publish-author">
-                                
-                                <i class="fas fa-user fa-fw"></i>
-                                我纷飞
-                                
-                            </span>
-                        </div>
-                    </div>
-
-                    
-                </div>
-            </div>
-              <!-- 隐藏某个文章 -->
-            
         </div>
     </article>
 
@@ -879,7 +842,7 @@
             <br>
             
                 &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                        class="white-color">17.7k</span>
+                        class="white-color">17.6k</span>
             
             
             
@@ -1111,7 +1074,10 @@ $(function () {
     
     <script src="/libs/instantpage/instantpage.js" type="module"></script>
     
-
+	
+		<!--动态背景-->
+	<div id="bg"><canvas></canvas><canvas></canvas><canvas></canvas></div>
+	<script src="/js/canva_moving_effect.js"></script>
 </body>
 
 </html>
