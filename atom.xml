@@ -6,7 +6,7 @@
   <link href="https://czyzcs.github.io/atom.xml" rel="self"/>
   
   <link href="https://czyzcs.github.io/"/>
-  <updated>2021-11-11T07:15:31.836Z</updated>
+  <updated>2021-11-12T08:07:56.600Z</updated>
   <id>https://czyzcs.github.io/</id>
   
   <author>
@@ -15,6 +15,114 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>java多线程的使用</title>
+    <link href="https://czyzcs.github.io/2021/111217694.html"/>
+    <id>https://czyzcs.github.io/2021/111217694.html</id>
+    <published>2021-11-12T03:51:43.000Z</published>
+    <updated>2021-11-12T08:07:56.600Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="后端" scheme="https://czyzcs.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+    
+    <category term="java" scheme="https://czyzcs.github.io/tags/java/"/>
+    
+    <category term="多线程" scheme="https://czyzcs.github.io/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
+    
+    <category term="线程池" scheme="https://czyzcs.github.io/tags/%E7%BA%BF%E7%A8%8B%E6%B1%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mysql数据库的优化</title>
+    <link href="https://czyzcs.github.io/2021/111212602.html"/>
+    <id>https://czyzcs.github.io/2021/111212602.html</id>
+    <published>2021-11-12T03:00:47.000Z</published>
+    <updated>2021-11-12T03:38:15.884Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="数据库" scheme="https://czyzcs.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="mysql" scheme="https://czyzcs.github.io/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>jdk动态代理与cglib动态代理</title>
+    <link href="https://czyzcs.github.io/2021/111218534.html"/>
+    <id>https://czyzcs.github.io/2021/111218534.html</id>
+    <published>2021-11-12T02:41:43.000Z</published>
+    <updated>2021-11-12T08:22:55.367Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="后端" scheme="https://czyzcs.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+    
+    <category term="java" scheme="https://czyzcs.github.io/tags/java/"/>
+    
+    <category term="jdk动态代理" scheme="https://czyzcs.github.io/tags/jdk%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86/"/>
+    
+    <category term="cglib动态代理" scheme="https://czyzcs.github.io/tags/cglib%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java集合与泛型</title>
+    <link href="https://czyzcs.github.io/2021/111251023.html"/>
+    <id>https://czyzcs.github.io/2021/111251023.html</id>
+    <published>2021-11-12T02:21:59.000Z</published>
+    <updated>2021-11-12T02:37:06.436Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="后端" scheme="https://czyzcs.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+    
+    <category term="java" scheme="https://czyzcs.github.io/tags/java/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
